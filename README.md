@@ -6,7 +6,7 @@ SellSmart AI is an AI-powered seller intelligence platform designed to help smal
 
 The platform assists sellers in generating compelling product descriptions, forecasting product demand, managing inventory, analyzing customer reviews, and making smarter pricing decisions.
 
----
+
 
 ##  Problem Statement
 
@@ -21,7 +21,7 @@ Small and medium sellers often struggle with:
 
 These challenges can lead to lost sales, stock shortages, overstocking, and reduced profitability.
 
----
+
 
 ##  Solution
 
@@ -48,5 +48,5 @@ SellSmart-AI/
 ├── tailwind.config.js
 ├── postcss.config.js
 └── README.md
-```
+
 
